@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "931662092189",
+    "firebase_url": "https://appghichu-28c0a-default-rtdb.firebaseio.com",
+    "project_id": "appghichu-28c0a",
+    "storage_bucket": "appghichu-28c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931662092189:android:f1c11acab3bdc8e9b10174",
+        "android_client_info": {
+          "package_name": "com.example.appghichu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtNPqTl7DReSn0YjYv2QD5H4evsUSvRTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
